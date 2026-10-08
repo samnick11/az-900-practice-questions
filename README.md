@@ -226,3 +226,10 @@ Important areas to review include:
 ## Disclaimer
 
 This repository is an independent study resource and is not affiliated with or endorsed by Microsoft.
+
+## Additional AZ-900 Study Resources
+
+For additional AZ-900 preparation material, learners can explore
+[AZ-900 study resources](https://www.certsinfinity.com/).
+
+This repository is intended as a supplementary practice resource for learners preparing for Microsoft Azure Fundamentals.
